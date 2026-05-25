@@ -1,0 +1,26 @@
+employeeId,employeeName,email,department,designation,employeeStatus,salary,hireDate
+1,Aarav Kumar,aarav.kumar@hranalytics.com,Human Resources,HR Manager,ACTIVE,92957.01,21-02-2019
+2,Bhavna Patel,bhavna.patel@hranalytics.com,Finance,Finance Manager,ACTIVE,108062.31,24-02-2019
+3,Chetan Rao,chetan.rao@hranalytics.com,Marketing,CMO,ACTIVE,70622.55,15-11-2019
+4,Divya Menon,divya.menon@hranalytics.com,Sales,Sales Executive,ACTIVE,96666.23,14-02-2021
+5,Elan Murugan,elan.murugan@hranalytics.com,Operations,Process Lead,ACTIVE,70410.1,17-07-2021
+6,Farida Sheikh,farida.sheikh@hranalytics.com,IT,IT Manager,ACTIVE,64706.22,16-02-2021
+7,Ganesh Iyer,ganesh.iyer@hranalytics.com,Legal,General Counsel,INACTIVE,69266.4,07-03-2022
+8,Hema Nair,hema.nair@hranalytics.com,Engineering,Software Engineer,ACTIVE,149641.66,27-05-2021
+9,Ishaan Verma,ishaan.verma@hranalytics.com,Human Resources,HR Manager,ACTIVE,89730.68,27-02-2021
+10,Jyoti Desai,jyoti.desai@hranalytics.com,Finance,Finance Manager,ACTIVE,55340.76,18-01-2023
+11,Karan Malhotra,karan.malhotra@hranalytics.com,Marketing,CMO,ACTIVE,88544.11,14-05-2023
+12,Lavanya Pillai,lavanya.pillai@hranalytics.com,Sales,Sales Executive,ACTIVE,135971.1,11-06-2019
+13,Manoj Sinha,manoj.sinha@hranalytics.com,Operations,Process Lead,ACTIVE,97035.92,28-03-2021
+14,Nisha Tiwari,nisha.tiwari@hranalytics.com,IT,IT Manager,INACTIVE,102959.61,15-01-2019
+15,Om Prakash,om.prakash@hranalytics.com,Legal,General Counsel,ACTIVE,89993.15,28-09-2019
+16,Pooja Reddy,pooja.reddy@hranalytics.com,Engineering,Software Engineer,ACTIVE,109332.27,05-11-2023
+17,Qasim Ali,qasim.ali@hranalytics.com,Human Resources,HR Manager,ACTIVE,55513.67,11-01-2020
+18,Riya Bose,riya.bose@hranalytics.com,Finance,Finance Manager,ACTIVE,156744.61,24-03-2023
+19,Suresh Pillai,suresh.pillai@hranalytics.com,Marketing,CMO,ACTIVE,63868.28,25-05-2023
+20,Tanvi Joshi,tanvi.joshi@hranalytics.com,Sales,Sales Executive,ACTIVE,121017.19,28-04-2019
+21,Uday Shankar,uday.shankar@hranalytics.com,Operations,Process Lead,INACTIVE,94017,26-04-2020
+22,Vani Krishnan,vani.krishnan@hranalytics.com,IT,IT Manager,ACTIVE,134123.56,23-02-2020
+23,Wasim Khan,wasim.khan@hranalytics.com,Legal,General Counsel,ACTIVE,70256.5,12-03-2020
+24,Xenia D'Souza,xenia.dsouza@hranalytics.com,Engineering,Software Engineer,ACTIVE,133401.33,11-07-2023
+25,Yogesh Patil,yogesh.patil@hranalytics.com,Human Resources,HR Manager,ACTIVE,65426.12,23-05-2022

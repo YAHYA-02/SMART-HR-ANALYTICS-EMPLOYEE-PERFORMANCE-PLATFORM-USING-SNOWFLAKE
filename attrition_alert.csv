@@ -1,0 +1,16 @@
+alertId,employeeId,attritionScore,alertReason,alertStatus
+1,16,33.03,Below market salary,OPEN
+2,18,38.71,Multiple short leaves pattern,OPEN
+3,19,88.85,Below market salary,OPEN
+4,13,47.63,Multiple short leaves pattern,RESOLVED
+5,2,67.66,Frequent absenteeism detected,OPEN
+6,23,38.15,Multiple short leaves pattern,RESOLVED
+7,6,33.32,Multiple short leaves pattern,OPEN
+8,20,45.82,Repeated conflict with manager,OPEN
+9,5,41.38,Declined internal transfer offer,OPEN
+10,22,32.22,Below market salary,OPEN
+11,10,68.55,Below market salary,OPEN
+12,8,68.87,Consistently low performance score,OPEN
+13,3,55.56,No promotion in 3+ years,OPEN
+14,15,65.09,Consistently low performance score,OPEN
+15,1,38.93,Repeated conflict with manager,OPEN

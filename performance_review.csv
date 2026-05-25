@@ -1,0 +1,111 @@
+reviewId,employeeId,reviewPeriod,performanceScore,feedback
+1,1,Q1-2024,5.1,Strong collaboration and communication skills.
+2,2,Q1-2024,8.1,High potential — fast learner and motivated.
+3,3,Q1-2024,5.7,High potential — fast learner and motivated.
+4,4,Q1-2024,3.2,High potential — fast learner and motivated.
+5,5,Q1-2024,5.2,High potential — fast learner and motivated.
+6,6,Q1-2024,4.5,High potential — fast learner and motivated.
+7,8,Q1-2024,3.7,Excellent client handling and proactivity.
+8,9,Q1-2024,4.0,Meets expectations with room for growth.
+9,10,Q1-2024,4.7,"Consistent performer, reliable team member."
+10,11,Q1-2024,4.2,Meets expectations with room for growth.
+11,12,Q1-2024,8.8,"Consistent performer, reliable team member."
+12,13,Q1-2024,6.1,Outstanding leadership during critical projects.
+13,15,Q1-2024,4.5,Meets expectations with room for growth.
+14,16,Q1-2024,5.5,Meets expectations with room for growth.
+15,17,Q1-2024,8.0,Exceptional problem-solving and delivery.
+16,18,Q1-2024,5.7,Below expectations — needs performance plan.
+17,19,Q1-2024,9.8,Below expectations — needs performance plan.
+18,20,Q1-2024,6.5,Below expectations — needs performance plan.
+19,22,Q1-2024,5.5,Below expectations — needs performance plan.
+20,23,Q1-2024,3.7,Excellent client handling and proactivity.
+21,24,Q1-2024,8.5,High potential — fast learner and motivated.
+22,25,Q1-2024,7.6,Needs improvement in deadline management.
+23,1,Q2-2024,4.1,Meets expectations with room for growth.
+24,2,Q2-2024,8.6,Exceptional problem-solving and delivery.
+25,3,Q2-2024,5.1,"Consistent performer, reliable team member."
+26,4,Q2-2024,4.8,Meets expectations with room for growth.
+27,5,Q2-2024,3.5,Strong collaboration and communication skills.
+28,6,Q2-2024,9.2,Strong collaboration and communication skills.
+29,8,Q2-2024,8.1,"Good technical skills, improving soft skills."
+30,9,Q2-2024,9.6,Meets expectations with room for growth.
+31,10,Q2-2024,5.4,High potential — fast learner and motivated.
+32,11,Q2-2024,9.3,Exceptional problem-solving and delivery.
+33,12,Q2-2024,6.0,Strong collaboration and communication skills.
+34,13,Q2-2024,7.3,Below expectations — needs performance plan.
+35,15,Q2-2024,4.1,Meets expectations with room for growth.
+36,16,Q2-2024,5.3,Needs improvement in deadline management.
+37,17,Q2-2024,5.9,"Good technical skills, improving soft skills."
+38,18,Q2-2024,8.1,"Good technical skills, improving soft skills."
+39,19,Q2-2024,4.9,Outstanding leadership during critical projects.
+40,20,Q2-2024,5.1,Meets expectations with room for growth.
+41,22,Q2-2024,3.3,High potential — fast learner and motivated.
+42,23,Q2-2024,6.8,Excellent client handling and proactivity.
+43,24,Q2-2024,4.1,"Consistent performer, reliable team member."
+44,25,Q2-2024,3.0,Meets expectations with room for growth.
+45,1,Q3-2024,5.1,High potential — fast learner and motivated.
+46,2,Q3-2024,6.4,Meets expectations with room for growth.
+47,3,Q3-2024,3.2,Strong collaboration and communication skills.
+48,4,Q3-2024,7.5,Meets expectations with room for growth.
+49,5,Q3-2024,6.3,Meets expectations with room for growth.
+50,6,Q3-2024,5.2,Below expectations — needs performance plan.
+51,8,Q3-2024,6.3,Outstanding leadership during critical projects.
+52,9,Q3-2024,3.6,"Good technical skills, improving soft skills."
+53,10,Q3-2024,5.7,"Consistent performer, reliable team member."
+54,11,Q3-2024,9.2,"Consistent performer, reliable team member."
+55,12,Q3-2024,4.3,Exceptional problem-solving and delivery.
+56,13,Q3-2024,4.8,Excellent client handling and proactivity.
+57,15,Q3-2024,4.8,Outstanding leadership during critical projects.
+58,16,Q3-2024,6.9,Strong collaboration and communication skills.
+59,17,Q3-2024,8.3,Meets expectations with room for growth.
+60,18,Q3-2024,3.6,"Consistent performer, reliable team member."
+61,19,Q3-2024,8.7,Below expectations — needs performance plan.
+62,20,Q3-2024,9.8,High potential — fast learner and motivated.
+63,22,Q3-2024,4.6,Exceptional problem-solving and delivery.
+64,23,Q3-2024,8.9,"Good technical skills, improving soft skills."
+65,24,Q3-2024,5.9,"Good technical skills, improving soft skills."
+66,25,Q3-2024,7.8,Excellent client handling and proactivity.
+67,1,Q4-2024,7.0,Needs improvement in deadline management.
+68,2,Q4-2024,6.3,Meets expectations with room for growth.
+69,3,Q4-2024,5.8,Exceptional problem-solving and delivery.
+70,4,Q4-2024,6.5,"Good technical skills, improving soft skills."
+71,5,Q4-2024,8.6,High potential — fast learner and motivated.
+72,6,Q4-2024,4.0,Excellent client handling and proactivity.
+73,8,Q4-2024,4.2,Strong collaboration and communication skills.
+74,9,Q4-2024,9.8,Needs improvement in deadline management.
+75,10,Q4-2024,3.9,Below expectations — needs performance plan.
+76,11,Q4-2024,3.5,Below expectations — needs performance plan.
+77,12,Q4-2024,4.4,Strong collaboration and communication skills.
+78,13,Q4-2024,8.8,Outstanding leadership during critical projects.
+79,15,Q4-2024,5.2,Meets expectations with room for growth.
+80,16,Q4-2024,3.6,"Good technical skills, improving soft skills."
+81,17,Q4-2024,5.8,"Consistent performer, reliable team member."
+82,18,Q4-2024,9.0,"Good technical skills, improving soft skills."
+83,19,Q4-2024,6.2,Exceptional problem-solving and delivery.
+84,20,Q4-2024,8.5,High potential — fast learner and motivated.
+85,22,Q4-2024,7.1,Below expectations — needs performance plan.
+86,23,Q4-2024,3.8,Strong collaboration and communication skills.
+87,24,Q4-2024,4.0,High potential — fast learner and motivated.
+88,25,Q4-2024,7.1,Meets expectations with room for growth.
+89,1,Q1-2025,9.5,High potential — fast learner and motivated.
+90,2,Q1-2025,8.5,Outstanding leadership during critical projects.
+91,3,Q1-2025,9.1,"Consistent performer, reliable team member."
+92,4,Q1-2025,9.1,Outstanding leadership during critical projects.
+93,5,Q1-2025,5.7,Excellent client handling and proactivity.
+94,6,Q1-2025,7.0,Excellent client handling and proactivity.
+95,8,Q1-2025,3.3,Outstanding leadership during critical projects.
+96,9,Q1-2025,5.8,High potential — fast learner and motivated.
+97,10,Q1-2025,7.3,Below expectations — needs performance plan.
+98,11,Q1-2025,3.3,"Consistent performer, reliable team member."
+99,12,Q1-2025,7.8,Exceptional problem-solving and delivery.
+100,13,Q1-2025,8.2,Outstanding leadership during critical projects.
+101,15,Q1-2025,9.3,Exceptional problem-solving and delivery.
+102,16,Q1-2025,5.4,Outstanding leadership during critical projects.
+103,17,Q1-2025,5.2,Excellent client handling and proactivity.
+104,18,Q1-2025,9.0,Meets expectations with room for growth.
+105,19,Q1-2025,9.8,Needs improvement in deadline management.
+106,20,Q1-2025,3.9,Excellent client handling and proactivity.
+107,22,Q1-2025,8.4,"Consistent performer, reliable team member."
+108,23,Q1-2025,4.9,Below expectations — needs performance plan.
+109,24,Q1-2025,7.2,Meets expectations with room for growth.
+110,25,Q1-2025,4.3,Needs improvement in deadline management.

@@ -1,0 +1,212 @@
+[
+  {
+    "reviewId": 1,
+    "employeeId": 1,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 5.1,
+    "feedback": "Strong collaboration and communication skills."
+  },
+  {
+    "reviewId": 2,
+    "employeeId": 2,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 8.1,
+    "feedback": "High potential \u2014 fast learner and motivated."
+  },
+  {
+    "reviewId": 3,
+    "employeeId": 3,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 5.7,
+    "feedback": "High potential \u2014 fast learner and motivated."
+  },
+  {
+    "reviewId": 4,
+    "employeeId": 4,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 3.2,
+    "feedback": "High potential \u2014 fast learner and motivated."
+  },
+  {
+    "reviewId": 5,
+    "employeeId": 5,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 5.2,
+    "feedback": "High potential \u2014 fast learner and motivated."
+  },
+  {
+    "reviewId": 6,
+    "employeeId": 6,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 4.5,
+    "feedback": "High potential \u2014 fast learner and motivated."
+  },
+  {
+    "reviewId": 7,
+    "employeeId": 8,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 3.7,
+    "feedback": "Excellent client handling and proactivity."
+  },
+  {
+    "reviewId": 8,
+    "employeeId": 9,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 4.0,
+    "feedback": "Meets expectations with room for growth."
+  },
+  {
+    "reviewId": 9,
+    "employeeId": 10,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 4.7,
+    "feedback": "Consistent performer, reliable team member."
+  },
+  {
+    "reviewId": 10,
+    "employeeId": 11,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 4.2,
+    "feedback": "Meets expectations with room for growth."
+  },
+  {
+    "reviewId": 11,
+    "employeeId": 12,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 8.8,
+    "feedback": "Consistent performer, reliable team member."
+  },
+  {
+    "reviewId": 12,
+    "employeeId": 13,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 6.1,
+    "feedback": "Outstanding leadership during critical projects."
+  },
+  {
+    "reviewId": 13,
+    "employeeId": 15,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 4.5,
+    "feedback": "Meets expectations with room for growth."
+  },
+  {
+    "reviewId": 14,
+    "employeeId": 16,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 5.5,
+    "feedback": "Meets expectations with room for growth."
+  },
+  {
+    "reviewId": 15,
+    "employeeId": 17,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 8.0,
+    "feedback": "Exceptional problem-solving and delivery."
+  },
+  {
+    "reviewId": 16,
+    "employeeId": 18,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 5.7,
+    "feedback": "Below expectations \u2014 needs performance plan."
+  },
+  {
+    "reviewId": 17,
+    "employeeId": 19,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 9.8,
+    "feedback": "Below expectations \u2014 needs performance plan."
+  },
+  {
+    "reviewId": 18,
+    "employeeId": 20,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 6.5,
+    "feedback": "Below expectations \u2014 needs performance plan."
+  },
+  {
+    "reviewId": 19,
+    "employeeId": 22,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 5.5,
+    "feedback": "Below expectations \u2014 needs performance plan."
+  },
+  {
+    "reviewId": 20,
+    "employeeId": 23,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 3.7,
+    "feedback": "Excellent client handling and proactivity."
+  },
+  {
+    "reviewId": 21,
+    "employeeId": 24,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 8.5,
+    "feedback": "High potential \u2014 fast learner and motivated."
+  },
+  {
+    "reviewId": 22,
+    "employeeId": 25,
+    "reviewPeriod": "Q1-2024",
+    "performanceScore": 7.6,
+    "feedback": "Needs improvement in deadline management."
+  },
+  {
+    "reviewId": 23,
+    "employeeId": 1,
+    "reviewPeriod": "Q2-2024",
+    "performanceScore": 4.1,
+    "feedback": "Meets expectations with room for growth."
+  },
+  {
+    "reviewId": 24,
+    "employeeId": 2,
+    "reviewPeriod": "Q2-2024",
+    "performanceScore": 8.6,
+    "feedback": "Exceptional problem-solving and delivery."
+  },
+  {
+    "reviewId": 25,
+    "employeeId": 3,
+    "reviewPeriod": "Q2-2024",
+    "performanceScore": 5.1,
+    "feedback": "Consistent performer, reliable team member."
+  },
+  {
+    "reviewId": 26,
+    "employeeId": 4,
+    "reviewPeriod": "Q2-2024",
+    "performanceScore": 4.8,
+    "feedback": "Meets expectations with room for growth."
+  },
+  {
+    "reviewId": 27,
+    "employeeId": 5,
+    "reviewPeriod": "Q2-2024",
+    "performanceScore": 3.5,
+    "feedback": "Strong collaboration and communication skills."
+  },
+  {
+    "reviewId": 28,
+    "employeeId": 6,
+    "reviewPeriod": "Q2-2024",
+    "performanceScore": 9.2,
+    "feedback": "Strong collaboration and communication skills."
+  },
+  {
+    "reviewId": 29,
+    "employeeId": 8,
+    "reviewPeriod": "Q2-2024",
+    "performanceScore": 8.1,
+    "feedback": "Good technical skills, improving soft skills."
+  },
+  {
+    "reviewId": 30,
+    "employeeId": 9,
+    "reviewPeriod": "Q2-2024",
+    "performanceScore": 9.6,
+    "feedback": "Meets expectations with room for growth."
+  }
+]
